@@ -10,3 +10,4 @@ Details are documented in [Wiki pages](https://github.com/learn-tibco-cep/tutori
 
 * Develop BE application in 10 minutes: [Document](https://github.com/learn-tibco-cep/tutorials/wiki/Get-Started); [Source](https://github.com/learn-tibco-cep/Demo)
 * State Machine for Async Service: [Document](https://github.com/learn-tibco-cep/tutorials/wiki/State-Machine-for-Async-Service); [Source](https://github.com/learn-tibco-cep/AsyncService)
+* Data Persistence & Performance: [Document](https://github.com/learn-tibco-cep/tutorials/wiki/Data-Persistence); [Source](https://github.com/learn-tibco-cep/Books)
